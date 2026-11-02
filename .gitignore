@@ -1,0 +1,16 @@
+# Compiled executables
+smokers
+test_logging
+test_program
+*.o
+*.out
+
+# Debugging and temporary output
+output.txt
+results.txt
+*.log
+
+# Editor files
+.vscode/
+*~
+
